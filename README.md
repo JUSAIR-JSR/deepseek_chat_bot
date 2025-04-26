@@ -6,7 +6,7 @@
 
 
 
-## Run deepseek r1 model by creating a local MERN application
+## Run deepseek r1 model by  MERN application
 
 ### 1. Run the backend server 
 ```
